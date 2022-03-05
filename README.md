@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheMagnificentRonnie
-- 👀 I’m interested in data access code automation and REst/GraphQL service generation
+- 👀 I’m interested in data access code automation and REST/GraphQL service generation
 - 🌱 I’m currently learning Kubernetes and Spark
 - 💞️ I’m looking to collaborate on data access code automation and REst/GraphQL service generation
 - 📫 How to reach me can you DM me, I dont know
